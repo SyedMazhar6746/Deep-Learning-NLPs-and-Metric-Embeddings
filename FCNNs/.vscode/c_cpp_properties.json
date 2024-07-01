@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/syed_mazhar/c++_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/a1_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/aliengo_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/anymal_b_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/anymal_c_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/astro_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/bruno_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/champ/champ/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/champ/champ_base/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/champ/champ_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/classes/include/**",
+        "/home/syed_mazhar/c++_ws/src/Reinforcement_Learning/deep_rl/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/dkitty_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/dream_walker_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/go1_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/learning_c_plus/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/littledog_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/mini_cheetah_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/mini_pupper_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/open_quadruped_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/opendog_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/point_cloud/point_cloud_processing/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_arm/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/spot_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/spotmicro_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/stanford_pupper_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/robots/configs/stochlite_config/include/**",
+        "/home/syed_mazhar/c++_ws/src/Spot_Aalto/spot_repos/yocs_velocity_smoother/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
